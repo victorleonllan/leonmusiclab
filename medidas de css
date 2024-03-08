@@ -1,0 +1,61 @@
+
+
+Píxeles (px):
+
+Es la unidad de medida más común en CSS.
+Un píxel es la unidad más pequeña de una pantalla.
+Se utiliza para definir tamaños de elementos de forma precisa y no cambia con el tamaño de la pantalla.
+
+
+
+
+Porcentaje (%):
+
+Se refiere a un porcentaje del tamaño del contenedor del elemento.
+Por ejemplo, si defines el ancho de un elemento como el 50%, tomará la mitad del ancho de su contenedor.
+
+
+
+
+Em (em):
+
+Equivale al tamaño de la fuente actual del elemento.
+Si defines el tamaño de un elemento como 2em, será el doble del tamaño de la fuente actual.
+
+
+
+
+
+Rem (rem):
+
+Similar a em, pero se refiere al tamaño de la fuente del elemento raíz (normalmente el elemento html).
+Útil cuando quieres que un elemento mantenga proporciones relativas al tamaño de la fuente de la página en general, en lugar de la fuente de su elemento padre.
+
+
+
+
+
+Puntos (pt):
+
+Se utiliza principalmente para tamaños de fuentes.
+Un punto es igual a 1/72 de una pulgada.
+La representación exacta puede variar según la pantalla y la configuración del usuario.
+
+
+
+
+
+Centímetros (cm), milímetros (mm) y pulgadas (in):
+
+Estas unidades son útiles cuando necesitas medidas físicas exactas, como para definir tamaños de impresión o elementos en pantallas con resoluciones específicas.
+
+
+
+
+Viewport Units:
+
+Son unidades relativas a las dimensiones de la ventana gráfica o viewport.
+vw: 1% del ancho del viewport.
+vh: 1% de la altura del viewport.
+vmin: 1% del tamaño mínimo entre el ancho y la altura del viewport.
+vmax: 1% del tamaño máximo entre el ancho y la altura del viewport.
