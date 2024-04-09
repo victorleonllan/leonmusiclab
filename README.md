@@ -1,13 +1,14 @@
 # leonmusic.lab
-Página web de estudio de grabación, con galerías e información.
+Web page about a Recording Studio, with video gallerys and information.
 
-Página de prueba para empresa personal. Aquí comencé a aprender sobre html y css. 
-He intentado mantener  el diseño lo más simple posible, enfocándome en mantener el html y el css lo más puro posible. 
+Test page about the studio. Im learning here about html and css both pure. 
+Im keeping the design the most simple ass posible, aiming for keep html and css the most pure ass posible.
 
-He aplicado una galería de iframes de Spotify con Jquery y una galeria de videos
+I apply a video gallery and an iframe from Spotify, im using Jquery for this.
 
-##  Tareas pendientes:
 
-Necesito optimizar todo pensando en que principalmente la gente la verá en móvil.
+##  Pending Work:
+
+Responsive for all devices.
 
 
