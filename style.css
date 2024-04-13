@@ -161,7 +161,7 @@
     grid-area: content1;
     border-radius: var(--main-radius);
     padding-top: var(--main-padding);
-    font-size: clamp(40px, 3.5vw ,70px);
+    font-size: clamp(1rem, -0.25rem + 3.333vw, 2.75rem);
     content: center;
     align-self: center;   
   } 
@@ -171,7 +171,7 @@
     grid-area: content2;
     border-radius: var(--main-radius);
     padding-top: var(--main-padding);
-    font-size: clamp(40px, 3.5vw ,70px);
+    font-size: clamp(1rem, -0.25rem + 3.333vw, 2.75rem);
     content: center;
     align-self: center;
   }  
@@ -181,7 +181,7 @@
     grid-area: content3;
     border-radius: var(--main-radius);
     padding-top: var(--main-padding);
-    font-size: clamp(40px, 3.5vw ,70px);
+    font-size: clamp(1rem, -0.25rem + 3.333vw, 2.75rem);
     content: center;
     align-self: center;
   }
@@ -258,6 +258,7 @@
   margin-top: 50px;
   background-color: #927008;
   border-radius: var(--main-radius);
+  
 }
 #LogoBlanco {
   grid-area: Logo;
@@ -268,10 +269,11 @@
    /* Alto deseado */
 }
 #textoLogo {
+  
   grid-area: TX;
   color: #ffffff;
   text-transform: none;
-  font-size: medium;  
+  font-size: x-large;  
 }
 
 
