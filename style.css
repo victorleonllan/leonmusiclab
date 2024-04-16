@@ -602,6 +602,7 @@ h3 {
               
             }
             .iframes991 {
+              display: block;
               
             }
             
@@ -610,11 +611,23 @@ h3 {
               background-color:#411F1F;
             }
 
+            #color1 {
+              background-color:#411F1F;
+            }
+
             .color2 {
               background-color:#c4950b; 
             }
 
+            #color2 {
+              background-color:#c4950b; 
+            }
+
             .color3 {
+              background-color: #927008; 
+            }
+
+            #color3 {
               background-color: #927008; 
             }
 
